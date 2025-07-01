@@ -1,7 +1,2 @@
 __pycache__/
 .venv/
-.python-version/
-uv.lock/
-README.md/
-pyproject.toml/
-.gitignore
